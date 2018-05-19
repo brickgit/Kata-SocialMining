@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/social_mining.iml" filepath="$PROJECT_DIR$/.idea/social_mining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/social-mining.iml" filepath="$PROJECT_DIR$/.idea/social-mining.iml" />
     </modules>
   </component>
 </project>
